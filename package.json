@@ -1,6 +1,6 @@
 {
-  "name": "typewriter-effect",
-  "version": "2.21.0",
+  "name": "@youraveragetechbro/typewriter-effect",
+  "version": "1.0.0",
   "main": "dist/react.js",
   "types": "index.d.ts",
   "keywords": [
@@ -55,5 +55,8 @@
   "dependencies": {
     "prop-types": "^15.8.1",
     "raf": "^3.4.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }

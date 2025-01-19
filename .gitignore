@@ -80,3 +80,6 @@ typings/
 *.iml
 
 dist/
+
+# npmrc file
+.npmrc
